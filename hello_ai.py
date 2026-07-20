@@ -1,1 +1,1 @@
-print("My AI learning starts!")
+print("I am learning deep learning!")
